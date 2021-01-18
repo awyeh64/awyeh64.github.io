@@ -1,4 +1,4 @@
-/*!
+#733838/*!
  * Start Bootstrap - Resume v5.0.7 (https://startbootstrap.com/template-overviews/resume)
  * Copyright 2013-2019 Start Bootstrap
  * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap-resume/blob/master/LICENSE)
@@ -177,7 +177,7 @@ section.resume-section .resume-item .resume-date {
 }
 
 .bg-primary {
-  background-color: #733838 !important;
+  background-color: #800000 !important;
 }
 
 .text-primary {
@@ -185,7 +185,7 @@ section.resume-section .resume-item .resume-date {
 }
 
 a {
-  color: #733838;
+  color: #990000;
 }
 
 a:hover, a:focus, a:active {
